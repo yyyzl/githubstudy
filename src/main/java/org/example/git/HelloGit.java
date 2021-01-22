@@ -10,6 +10,7 @@ public class HelloGit {
         System.out.println("第二次提交");
         System.out.println("第三次提交");
         System.out.println("我是分支提交的");
+        System.out.println("分支提交的代码为了测试合并冲突");
         System.out.println("主干提交的代码为了测试合并冲突");
     }
 }
